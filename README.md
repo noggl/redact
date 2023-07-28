@@ -8,7 +8,7 @@ A semi-intelligent automated script for redacting sensitive data from files
 
 ## How it works
 
-The script uses a list of regular expressions to find sensitive data in the file. It then replaces the sensitive data with a redacted version of itself. For example, `123-45-6789` becomes `XXX-XX-XXXX`.
+The script uses a list of regular expressions to find sensitive data in the file. It then replaces the sensitive data with a redacted version of itself. For example, `123-456-7890` becomes `XXX-XX-XXXX`.
 
 ### Interactive Mode
 
