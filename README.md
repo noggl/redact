@@ -3,7 +3,7 @@ A semi-intelligent automated script for redacting sensitive data from files
 
 ## Usage
 1. [Download](https://github.com/noggl/redact/archive/refs/heads/main.zip) or clone this repository with git
-2. Run `python3 redact.py file` where `file` is the file you want to redact. If you want to redact interactively, run `python3 redact.py -i file` instead.
+2. Run `python3 redact.py file` where `file` is the file you want to redact. If you want to redact interactively, run `python3 redact.py file -i` instead.
 3. The redacted file is saved as `file-redacted`
 
 ## How it works
